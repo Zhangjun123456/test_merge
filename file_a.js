@@ -7,3 +7,5 @@ branch 1
 branch 2 
 
 commit 1 from master
+
+commit 2 from master
